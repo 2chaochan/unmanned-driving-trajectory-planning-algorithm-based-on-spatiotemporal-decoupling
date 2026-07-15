@@ -1,0 +1,2 @@
+# unmanned-driving-trajectory-planning-algorithm-based-on-spatiotemporal-decoupling
+For path planning in autonomous driving, a path planning algorithm based on spatiotemporal decoupling in the Frenet coordinate system is designed. The planning is decomposed into lateral trajectory planning and longitudinal speed planning to address the difficulty in solving the three-dimensional model in the Cartesian coordinate system. 
