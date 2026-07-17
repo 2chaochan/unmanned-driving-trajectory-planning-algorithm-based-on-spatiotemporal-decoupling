@@ -94,6 +94,8 @@
 
 ## 结果展示
 
+![demo1](2chaochan/unmanned-driving-trajectory-planning-algorithm-based-on-spatiotemporal-decoupling/demo1.gif)
+
 ### 1. 路径规划联合仿真结果
 
 ![路径规划联合仿真](./assets/path-planning-demo.png)
